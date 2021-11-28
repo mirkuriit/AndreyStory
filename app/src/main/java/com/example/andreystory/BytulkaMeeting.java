@@ -70,6 +70,6 @@ public class BytulkaMeeting extends AppCompatActivity {
     //киньте денег, умоляю. Сбер +79996428442
     public void joke(View view) {
         Toast.makeText(getApplicationContext(),
-                "самый умный ебать?", Toast.LENGTH_SHORT).show();
+                "самый умный?", Toast.LENGTH_SHORT).show();
     }
 }

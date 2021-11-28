@@ -51,7 +51,7 @@ public class TakeBag extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getApplicationContext(),
-                        "самый умный ебать?", Toast.LENGTH_SHORT).show();
+                        "самый умный блин?", Toast.LENGTH_SHORT).show();
                 endgame();
 
             }
