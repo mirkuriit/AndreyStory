@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_brave_end.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_bytulka_meeting.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_guard_meeting.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_guard_meeting_failed.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_guard_meeting_failed_dodge.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_guard_meeting_successed_dodge.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_guard_successed.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_inetelldgence_end.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27853260869565216" />
+        <entry key="app/src/main/res/layout/activity_secret_end.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_selection_of_bread.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_take_bag.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_tolik_meeting.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_tolik_meeting_failed.xml" value="0.190625" />
+        <entry key="app/src/main/res/layout/activity_tolik_meeting_successed.xml" value="0.190625" />
+        <entry key="app/src/main/res/layout/activity_tolik_meeting_successed_dodge.xml" value="0.190625" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

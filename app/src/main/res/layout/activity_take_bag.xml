@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BytulkaMeeting"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/take_bag"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="416dp"
+        android:src="@drawable/take_bag" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/take"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:layout_margin="20dp"
+            android:backgroundTint="@color/red"
+            android:text="@string/take_bag_choice"
+            android:textSize="15dp" />
+
+        <Button
+            android:id="@+id/dont_take"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:backgroundTint="@color/green"
+            android:text="@string/dont_take_bag_choice"
+            android:textSize="15dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

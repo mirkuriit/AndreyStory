@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.andreystory">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AndreyStory">
+        <activity
+            android:name=".SecretEnd"
+            android:exported="true" />
+        <activity
+            android:name=".BraveEnd"
+            android:exported="true" />
+        <activity
+            android:name=".InetelldgenceEnd"
+            android:exported="true" />
+        <activity
+            android:name=".TakeBag"
+            android:exported="true" />
+        <activity
+            android:name=".SelectionOfBread"
+            android:exported="true" />
+        <activity
+            android:name=".GuardMeetingSuccessedDodge"
+            android:exported="true" />
+        <activity
+            android:name=".GuardMeetingFailedDodge"
+            android:exported="true" />
+        <activity
+            android:name=".GuardSuccessed"
+            android:exported="true" />
+        <activity
+            android:name=".GuardMeetingFailed"
+            android:exported="true" />
+        <activity
+            android:name=".GuardMeeting"
+            android:exported="true" />
+        <activity
+            android:name=".TolikMeetingSuccessedDodge"
+            android:exported="true" />
+        <activity
+            android:name=".TolikMeetingSuccessed"
+            android:exported="true" />
+        <activity
+            android:name=".TolikMeetingFailed"
+            android:exported="true" />
+        <activity
+            android:name=".TolikMeeting"
+            android:exported="true" />
+        <activity
+            android:name=".BytulkaMeeting"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
